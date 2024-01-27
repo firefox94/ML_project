@@ -1,0 +1,1 @@
+This project is about analysing and predicting propensity of persistency in an insurance company. In this scope, I will build a simple model to predict current policies would be renewal or not in the next payment term.
